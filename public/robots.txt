@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://headofsales.saleswhisper.pro/sitemap.xml
